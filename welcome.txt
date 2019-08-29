@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hi, this is the first file. 
+hi, this is the first file. this is a changgggeeeeeeeeee.  
 =======
 hi, this is the first file. this is a change. 
 >>>>>>> dev
